@@ -1,0 +1,153 @@
+
+.logo {
+
+    height: 73px;
+    width: 100%;
+}
+
+.bg-header {
+
+   position: relative;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    position: absolute;
+    margin-top: -75px;
+    justify-content: right;
+}
+
+.list-inline-item{
+
+     color: white;
+     text-decoration: none;
+     margin-left: 50px;
+     margin-top: 23px;
+    
+}
+  
+
+.navigation{
+
+    background-color: rgb(241, 114 , 11);
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.h2 {
+    color: orange;
+}
+
+.sports-extrêmes {
+
+    margin-bottom: 15%;
+    margin-top: 20%;
+   
+}
+
+
+
+h3 {
+    color: orangered;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+h6 {
+    color: darkgray;
+    text-align: center;
+}
+
+
+.d-inline-flex{
+
+    color: white;
+    background-color: rgb(66, 30 , 8);
+    height: 57px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.running{
+
+    background-image: url(equipement.jpg);
+    height: 546px;
+    background-size: cover;
+    
+}
+
+h1 {
+
+    size: 15xp;
+}
+
+.col-11 {
+
+    margin-top: 5%;
+}
+
+h2 {
+    color:white;
+    display: flex;
+    vertical-align: middle;
+  
+}
+
+
+h1 {
+    color: rgb(241, 114 , 11);
+    display: flex;
+    vertical-align: middle;
+}
+
+.tacho {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.col-4{
+
+    margin-top: 2%;
+}
+
+.Bouton {
+
+    background-color: rgb(241, 114 , 11);
+    border: 0cm;
+    color: white;
+}
+
+.SAV {
+
+    background-image: url(bg_sav.jpg);
+    height: 450px;
+    margin-top: 2%;
+    background-size: cover;
+}
+
+footer {
+
+    background-color: rgb(48, 48 , 48);
+    color: white;
+}
+
+.bare{
+    transform: translate( 0%,-250%);
+    color: white;
+}
+
+.sky{
+
+    color: white;
+    transform: translate(0%,-170%);
+  
+}
